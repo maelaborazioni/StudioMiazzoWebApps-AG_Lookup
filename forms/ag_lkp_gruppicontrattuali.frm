@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2tabgruppicontrattuali",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"329939DD-2643-46CD-9AC9-9288DCF0ED53"
+}
+],
+name:"ag_lkp_gruppicontrattuali",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"0048E660-782A-4D78-8C46-376372A093CE"

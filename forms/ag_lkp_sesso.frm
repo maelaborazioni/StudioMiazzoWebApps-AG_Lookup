@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_tipisesso",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"C9387DCE-C80A-492E-8B3D-D34939FC75D2"
+}
+],
+name:"ag_lkp_sesso",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"BB47CC9E-D91A-4E8B-9393-3759DC8A807C"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_hr/privacy_dittaarchivio",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"8095F7CF-8AE1-46FC-B790-8848DB568856"
+}
+],
+name:"ag_lkp_archivio",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E28D0210-F846-41BC-AC6A-348F300AF185"

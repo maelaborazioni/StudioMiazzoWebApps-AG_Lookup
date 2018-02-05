@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_tipifunzione",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"5AE5A868-68DF-43DB-8901-5E6F1D75EF49"
+}
+],
+name:"ag_lkp_ruolo",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"68656250-A855-4B76-91D0-10DBA286606F"

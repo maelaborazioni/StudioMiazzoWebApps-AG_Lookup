@@ -1,0 +1,16 @@
+dataSource:"db:/ma_hr/tabprivacytipodocumento",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"0155C5E4-FBE8-481B-B549-8D3C8F690890"
+}
+],
+name:"ag_lkp_documentoprivacy",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"BAA6E61E-F25B-45A0-A8B6-6A8F40F97BD0"

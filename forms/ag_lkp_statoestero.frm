@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_statiesteri",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"9EC4D813-15F8-4ECB-81AE-A89967B66DB6"
+}
+],
+name:"ag_lkp_statoestero",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"9EA76438-5542-413A-98CD-F47BB520C9C4"

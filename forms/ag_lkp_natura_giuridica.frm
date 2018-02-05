@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_naturagiuridica",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"0641540B-638B-454A-98A3-4624894B025B"
+}
+],
+name:"ag_lkp_natura_giuridica",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"8B45224A-C483-48A0-9B76-5003E329D2BC"

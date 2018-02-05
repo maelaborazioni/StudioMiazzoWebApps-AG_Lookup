@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/v_ditte_raggruppamenti",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"492D35E4-C5CF-4438-82ED-97317B155C01"
+}
+],
+name:"ag_lkp_raggruppamento",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"21577BD3-13CB-45B6-8006-3FCED46ABD30"

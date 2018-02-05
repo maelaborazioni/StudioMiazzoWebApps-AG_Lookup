@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"E054859D-A7D3-4FCC-B1F8-454FE0A820E9"
+}
+],
+name:"ag_lkp_ditta",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"97A9EB2F-E36A-4C88-99FB-A99A9F459C32"

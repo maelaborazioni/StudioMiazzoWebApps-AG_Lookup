@@ -1,0 +1,12 @@
+allowCreationRelatedRecords:false,
+allowParentDeleteWhenHavingRelatedRecords:true,
+foreignDataSource:"db:/ma_presenze/e2regolefasce",
+items:[
+{foreignColumnName:"riga",operator:0,primaryDataProviderID:"valore_agg_int",typeid:23,uuid:"0729AACD-7776-4EA7-A08F-D772FAA7EDFB"},
+{foreignColumnName:"idregole",operator:0,primaryDataProviderID:"valore_int",typeid:23,uuid:"7E64BBFC-11EF-475C-9DF8-AA8C035771D2"}
+],
+joinType:1,
+name:"e2dcg_decorrenza_to_e2regolefasce",
+primaryDataSource:"db:/ma_presenze/e2dcg_decorrenza",
+typeid:22,
+uuid:"1302FA7F-1306-4F3A-BAA0-906C896B2C4D"

@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/ditte_commesse",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"37BFB758-C7AF-41E5-A79D-F49C64DA978E"
+}
+],
+name:"ag_lkp_ditte_commesse",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"9E6AF7CB-F865-4FB9-AE2E-B54892669FFD"

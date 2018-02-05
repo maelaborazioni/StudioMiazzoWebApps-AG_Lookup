@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_inps",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"B257CC5E-12A1-4384-AAC8-2B84E4CFB74A"
+}
+],
+name:"ag_lkp_posizioneinps",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"78C17CBA-A6A6-4426-A287-CA6A282E9E71"

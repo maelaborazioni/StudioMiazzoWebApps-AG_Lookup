@@ -1,0 +1,16 @@
+dataSource:"db:/ma_hr/tabsictabelle",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"44691BA6-58F9-4551-97E1-2D28A1394D48"
+}
+],
+name:"ag_lkp_ateco_incendio",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"E752691F-1F55-4B92-8AC1-4AD2CD277174"

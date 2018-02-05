@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_titolistudio",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"7C45D454-4E84-4123-8D44-CB3096A7773F"
+}
+],
+name:"ag_lkp_titolostudio",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"30517CEB-CE26-469A-B377-0E48B3C2B621"

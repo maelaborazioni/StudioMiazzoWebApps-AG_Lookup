@@ -1,0 +1,16 @@
+dataSource:"db:/ma_common/tab_bancheabi",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"C3703BDD-83C5-4080-9B3E-92A96D0AEBEF"
+}
+],
+name:"lkp_bancheabi",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"A434C939-D185-4E65-BA4E-89AA67EE44ED"

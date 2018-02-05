@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_statiesteri",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"B57A20A9-79D3-4515-B46B-7C33BCF44D0F"
+}
+],
+name:"ag_lkp_cittadinanza",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"6ABE8DA3-5A7D-4C7A-9CA8-C51BC35DC05E"

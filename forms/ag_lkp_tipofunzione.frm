@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_tipifunzione",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"9DCCB714-BF56-4B79-8A57-B48B3B34EDE1"
+}
+],
+name:"ag_lkp_tipofunzione",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"D7B75737-D902-4E30-81A8-8A1FE788E57F"

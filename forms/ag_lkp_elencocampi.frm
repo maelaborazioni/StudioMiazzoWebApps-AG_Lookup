@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2controlli_elencocampi",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"93FA84EC-F8EB-4DFE-BC37-6FBFB50F4F0C"
+}
+],
+name:"ag_lkp_elencocampi",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"4000C79B-08FD-4E7E-A691-57E232013787"

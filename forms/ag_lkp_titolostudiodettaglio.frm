@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_titolistudiodettaglio",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"2E85E6BD-3A1B-4DC1-A040-5ADE986BB8E7"
+}
+],
+name:"ag_lkp_titolostudiodettaglio",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"D6CA9A31-C895-4CC3-936D-54323F82ADD5"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2controlli_tipologiacontrollo",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"EA32259A-9495-47E2-A3E2-9739410820F7"
+}
+],
+name:"ag_lkp_tipologiacontrolli",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"F62F072A-6DD7-497B-A721-4F82CBBB54A1"

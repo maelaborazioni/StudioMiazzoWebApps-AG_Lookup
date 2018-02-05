@@ -1,0 +1,16 @@
+dataSource:"db:/ma_nl/e2tabcontributi",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"AD875208-C6D9-43A5-8C6D-CC175378ACA5"
+}
+],
+name:"ag_lkp_contributi",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"A8DCF7C7-DEFA-4EED-93AD-3D44195A788F"

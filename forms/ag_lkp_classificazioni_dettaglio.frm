@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_classificazionidettaglio",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"BB89FC3A-94D2-4B71-A121-585017DACAD8"
+}
+],
+name:"ag_lkp_classificazioni_dettaglio",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"ABDE161A-E4C5-4F07-88C4-8AB02FF7F2F9"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_sedi",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"44AA6075-291F-4534-931D-CD0FE6373923"
+}
+],
+name:"ag_lkp_sede",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"2E3C531E-DACF-4A33-AC5B-9A4B9B516186"

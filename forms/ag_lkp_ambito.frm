@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_ambiti",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"9C13ABBF-F88B-4485-BD2F-4799D9FBF65E"
+}
+],
+name:"ag_lkp_ambito",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"D6C5EA4F-21A7-4D08-9D05-6293221A7F3B"

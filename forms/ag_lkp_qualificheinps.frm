@@ -1,0 +1,16 @@
+dataSource:"db:/ma_nl/e2tabqualificheinps",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"B6AF3AE1-3C54-4834-9C93-89CB3398F1D7"
+}
+],
+name:"ag_lkp_qualificheinps",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"90AF73AE-23B2-44F2-BACF-09DD1DCFE65F"

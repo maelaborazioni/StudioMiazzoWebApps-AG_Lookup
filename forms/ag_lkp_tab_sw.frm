@@ -1,0 +1,15 @@
+dataSource:"db:/ma_anagrafiche/tab_sw",
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"1BF81906-EBAF-4EE1-A172-4F3370294F33"
+}
+],
+name:"ag_lkp_tab_sw",
+showInMenu:true,
+styleName:"leaf_style",
+typeid:3,
+uuid:"B318CDB3-6D8B-43EE-B375-4437712CA682"

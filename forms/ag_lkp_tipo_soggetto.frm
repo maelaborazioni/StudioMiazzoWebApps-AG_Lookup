@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_tipisoggetto",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"C2FD893D-58A3-421C-AD79-C13172E4B50F"
+}
+],
+name:"ag_lkp_tipo_soggetto",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"76BE0585-74CA-4950-97FD-88F0646F8CEE"

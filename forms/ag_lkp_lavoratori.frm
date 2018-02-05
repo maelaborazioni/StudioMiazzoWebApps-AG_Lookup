@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/lavoratori",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"76E12EB6-5870-4E82-9151-D78A4D08E4B4"
+}
+],
+name:"ag_lkp_lavoratori",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"F0CF0026-9BDD-4E5B-A7FC-672FCD32BD5B"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/lavoratori_personeesterne",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"60C222E7-5F9B-4C5E-87AA-95909E885B5B"
+}
+],
+name:"ag_lkp_personeesterne",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"92F110E1-ABA7-476D-B6C4-87096987C947"

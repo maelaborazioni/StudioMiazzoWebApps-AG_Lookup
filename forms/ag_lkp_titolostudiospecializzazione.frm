@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_titolistudiospecializzazioni",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"BFBEB2E2-4A1F-41C2-B4D7-1A285B93B797"
+}
+],
+name:"ag_lkp_titolostudiospecializzazione",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"484BDF2A-C368-4D0D-88F9-93368DD95E39"

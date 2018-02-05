@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/ditte_turni",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"2F5EED2E-01AC-4DA9-A803-464A7D724698"
+}
+],
+name:"ag_lkp_turno",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"4AC6B7F4-19C2-41BB-A84C-D0AD79C5D690"

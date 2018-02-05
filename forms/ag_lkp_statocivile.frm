@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/tab_statocivile",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"8978A9D1-5B56-457D-8FB7-ADCD3E3F8DC5"
+}
+],
+name:"ag_lkp_statocivile",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"075FCEA1-60BB-44E3-9DA1-3D7C20CF6BC6"

@@ -1,0 +1,16 @@
+dataSource:"db:/ma_nl/e2tabcontributiaggiuntivi",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"2F02CF07-8971-4D92-BF10-F9D8EA2EB9DF"
+}
+],
+name:"ag_lkp_contributiaggiuntivi",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"9B8663BE-7C37-47E8-8F73-A26D94F8BA66"

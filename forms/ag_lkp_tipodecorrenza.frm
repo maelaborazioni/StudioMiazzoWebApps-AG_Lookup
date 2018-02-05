@@ -1,0 +1,16 @@
+dataSource:"db:/ma_presenze/e2dcg_campi",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"F183769E-B317-440B-B04E-03415D9B0A10"
+}
+],
+name:"ag_lkp_tipodecorrenza",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"56BEC7CA-9755-46BF-9173-E2D3AAC03606"

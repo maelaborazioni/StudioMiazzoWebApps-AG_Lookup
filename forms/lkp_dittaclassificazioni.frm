@@ -1,0 +1,16 @@
+dataSource:"db:/ma_anagrafiche/v_dittaclassificazioni",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"790BC67F-34E2-4E58-9564-07EC14A427C2"
+}
+],
+name:"lkp_dittaclassificazioni",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"8E6E9BA5-D6A0-4543-AFD9-8A4B493C3B83"

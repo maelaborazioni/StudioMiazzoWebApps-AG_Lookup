@@ -1,0 +1,16 @@
+dataSource:"db:/ma_nl/e2nlsettoriappartenenza",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"A98412B1-7104-41B8-A608-88007453C428"
+}
+],
+name:"ag_lkp_settoriappartenenza",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"D5241D88-C91E-4FAB-9CE5-143AFF6751D4"
